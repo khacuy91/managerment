@@ -1,0 +1,11 @@
+ div.col-lg-6{
+ 	margin-top: 2em; 
+ 	margin-left: 24em;
+ }
+ button#add.btn.btn-primary{
+ 	width: 5em;
+ 	height: 2.45em;
+ }
+ ul.pagination{
+ 	float: right;
+ }

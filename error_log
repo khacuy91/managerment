@@ -1,0 +1,25 @@
+[15-Mar-2016 10:23:19 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/selfwing/public_html/index.php on line 1
+[15-Mar-2016 10:26:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'self123'@'ns8926.dotvndns.vn' (using password: YES) in /home/selfwing/public_html/index.php on line 1
+[15-Mar-2016 10:26:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'self123'@'ns8926.dotvndns.vn' (using password: YES) in /home/selfwing/public_html/index.php on line 1
+[15-Mar-2016 10:26:38 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'self123'@'ns8926.dotvndns.vn' (using password: YES) in /home/selfwing/public_html/index.php on line 1
+[15-Mar-2016 10:26:38 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'self123'@'ns8926.dotvndns.vn' (using password: YES) in /home/selfwing/public_html/index.php on line 1
+[15-Mar-2016 10:26:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'self123'@'ns8926.dotvndns.vn' (using password: YES) in /home/selfwing/public_html/index.php on line 1
+[15-Mar-2016 10:26:40 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'self123'@'ns8926.dotvndns.vn' (using password: YES) in /home/selfwing/public_html/index.php on line 1
+[15-Mar-2016 10:29:43 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/selfwing/public_html/index.php on line 1
+[15-Mar-2016 10:29:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/selfwing/public_html/index.php on line 1
+[15-Mar-2016 10:29:48 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/selfwing/public_html/index.php on line 1
+[15-Mar-2016 10:29:49 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/selfwing/public_html/index.php on line 1
+[15-Mar-2016 10:31:32 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/selfwing/public_html/index.php on line 7
+[15-Mar-2016 10:33:26 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'self123'@'ns8926.dotvndns.vn' (using password: YES) in /home/selfwing/public_html/index.php on line 7
+[15-Mar-2016 10:33:30 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'self123'@'ns8926.dotvndns.vn' (using password: YES) in /home/selfwing/public_html/index.php on line 7
+[15-Mar-2016 03:36:55 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/selfwing/public_html/config/bootstrap.php on line 100
+[15-Mar-2016 03:38:49 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/selfwing/public_html/config/bootstrap.php on line 100
+[15-Mar-2016 03:40:27 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/selfwing/public_html/config/bootstrap.php on line 100
+[15-Mar-2016 03:41:41 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/selfwing/public_html/config/bootstrap.php on line 100
+[15-Mar-2016 03:42:49 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/selfwing/public_html/config/bootstrap.php on line 100
+[15-Mar-2016 03:47:14 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/selfwing/public_html/config/bootstrap.php on line 100
+[15-Mar-2016 03:55:01 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/selfwing/public_html/config/bootstrap.php on line 100
+[15-Mar-2016 03:55:02 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/selfwing/public_html/config/bootstrap.php on line 100
+[15-Mar-2016 03:55:19 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/selfwing/public_html/config/bootstrap.php on line 100
+[15-Mar-2016 03:55:20 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/selfwing/public_html/config/bootstrap.php on line 100
+[15-Mar-2016 03:56:13 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/selfwing/public_html/config/bootstrap.php on line 100

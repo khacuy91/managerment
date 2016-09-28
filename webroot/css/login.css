@@ -1,0 +1,232 @@
+@charset "utf-8";
+
+
+/* --------------------------------------------- */
+
+.login_all{
+	width : 800px;
+	margin:  15% auto;
+}
+.login_left{
+	float: left;
+	margin-left: 7em;
+}
+.login_right{
+	float: left;
+}
+.ttl_form{
+	width : 540px;
+	border-top-left-radius: 4px; 
+	border-top-right-radius: 4px;
+	-webkit-border-top-left-radius: 4px;
+	-moz-border-radius-topleft: 4px;
+	-webkit-border-top-right-radius: 4px;
+	-moz-border-radius-topright: 4px;
+	behavior: url(border-radius.htc);   /* for IE */
+	background-color: #44a1dc;
+}
+.txt_form{
+	font-size: 110%;
+	display: table-cell;
+	vertical-align: middle;
+	font-weight: bold;
+	padding:4px 16px 1px;
+	color:#FFF;
+}
+.login_txt{
+	font-size: 90%;
+	padding-top:12px;
+	text-align: right;
+	padding:0 16px 5px;
+}
+div.login_bg{
+	border-bottom-left-radius: 4px; 
+	border-bottom-right-radius: 4px;
+	-webkit-border-bottom-left-radius: 4px;
+	-moz-border-radius-bottomleft: 4px;
+	-webkit-border-bottom-right-radius: 4px;
+	-moz-border-radius-bottomright: 4px;
+	behavior: url(border-radius.htc);   /* for IE */
+	width : 500px;
+	margin : 0 auto;
+	padding:20px;
+	background-color: #f0f0f0;
+}
+form#login_form dl{
+	overflow: hidden;
+}
+form#login_form dl dt{
+	clear: both;
+	width: 130px;
+	float: left;
+	text-align: right;
+	padding: 12px 0 10px;
+}
+form#login_form dl dd{
+	width: 280px;
+	float: left;
+	padding: 9px 0 10px 20px;
+}
+form#login_form dl dt:first-child,
+form#login_form dl dt:first-child+dd{
+	border: none;
+	background: none;
+}
+form#login_form input{
+	padding: 4px 6px;
+	height: 1.6em;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	background: #fafafa;
+}
+form#login_form -webkit-input-placeholder {
+	color: #ccc;
+}
+form#login_form input:-ms-input-placeholder {
+	color: #ccc;
+}
+form#login_form input:-moz-placeholder {
+	color: #ccc;
+}
+form#login_form input#login_id,
+form#login_form input#login_pw{
+	width: 280px;
+}
+div.login_btn{
+	margin-top: 12px;
+	width : 540px;
+	text-align: center;
+}
+
+input#login_submit_button{
+	width: 20%;
+	height: 10%;
+	 
+	vertical-align: middle;
+	color: #444;
+	background: #eee;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	font-family: "ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro W3","Hiragino Kaku Gothic Pro",Osaka,"メイリオ",Meiryo,"ＭＳ Ｐゴシック","MS PGothic",Verdana,Arial,sans-serif;
+	font-weight: bold;
+}
+#login_submit_button:hover{
+	cursor: pointer;
+	color: #e75b45;
+	background: #e0e0e0;
+}
+div.toutoku_bg{
+	width: 180px;
+	padding: 20px;
+	background-color: #FFE082;
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+}
+#toutoku{
+	background-color: #FFF8E1;
+	padding: 15px;
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+}
+#toutoku strong{
+	color: #E65100;
+	font-size: 125%;
+	font-weight: bold;
+}
+input#username{
+	width: 100%;
+}
+input#email{
+	width: 100%;
+}
+input#password{
+	width: 100%;
+}
+
+
+/* --responsive------------------------------------------- */
+
+/* 640pixel start */
+@media screen and (max-width: 640px){
+
+.login_all{
+	width: 95%;
+}
+.login_left{
+	width: 95%;
+	margin: auto;
+	padding: 0;
+}
+.login_right{
+	width: 95%;
+	margin: auto;
+	padding: 0;
+}
+
+.ttl_form{
+	width: 103%;
+}
+.txt_form{
+	width: 95%;
+	display: table-cell;
+	vertical-align: middle;
+	padding-left:10px;
+}
+.login_txt{
+	font-size: 90%;
+	padding-top:12px;
+	text-align: right;
+	padding:0 5px;
+	font-weight: bold;
+}
+div.login_bg{
+	width : 95%;
+	padding : 5% 4%;
+}
+form#login_form{
+	width: 95%;
+}
+form#login_form dl{
+	width: auto;
+	padding: 2.5% 2.5%;
+}
+form#login_form dl dt{
+	width: auto;
+	float: none;
+	text-align: left;
+	padding: 10px 0 5px;
+	font-weight: bold;
+}
+form#login_form dl dd{
+	width: auto;
+	float: none;
+	border-top: none;
+	padding: 0px 0 10px 0px;
+	background: none;
+}
+form#login_form dl dt span.essential{
+	font-weight: bold;
+}
+form#login_form input#login_id,
+form#login_form input#login_pw,
+form#login_form textarea#login_contents,{
+	max-width: 100%;
+}
+div.login_btn{
+	width : 100%;
+	margin-top: 8px;
+	text-align: center;
+}
+div.toutoku_bg{
+	margin-top: 30px;
+	width : 95%;
+	padding : 5% 4%;
+}
+#toutoku{
+	width: 91%;
+}
+
+}
+/* 640pixel end */

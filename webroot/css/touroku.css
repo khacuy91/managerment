@@ -1,0 +1,284 @@
+@charset "utf-8";
+
+
+/* --------------------------------------------- */
+
+.ttl_form{
+	width: 600px;
+	margin: 50px auto 20px;
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	behavior: url(border-radius.htc);   /* for IE */
+	background-color: #44a1dc;
+}
+.txt_form{
+	font-size: 140%;
+	display: table-cell;
+	vertical-align: middle;
+	font-weight: bold;
+	padding:16px 20px 14px ;
+	color:#FFF;
+}
+form#touroku_form{
+	width: 600px;
+	margin: 0 auto 30px;
+}
+form#touroku_form dl{
+	width: 550px;
+	padding: 15px 25px;
+	overflow: hidden;
+}
+form#touroku_form dl dt{
+	clear: both;
+	width: 160px;
+	float: left;
+	border-top: 1px solid #ccc;
+	padding: 12px 10px;
+	font-weight: bold;
+}
+form#touroku_form dl dd{
+	width: 340px;
+	float: left;
+	border-top: 1px solid #ccc;
+	padding: 9px 0 10px 30px;
+}
+form#touroku_form dl dt:first-child,
+form#touroku_form dl dt:first-child+dd{
+	border: none;
+	background: none;
+}
+span{
+	color: #B71C1C;
+}
+form#touroku_form input{
+	padding: 4px 6px;
+	height: 1.6em;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	background: #fafafa;
+}
+form#touroku_form -webkit-input-placeholder {
+	color: #ccc;
+}
+form#touroku_form input:-ms-input-placeholder {
+	color: #ccc;
+}
+form#touroku_form input:-moz-placeholder {
+	color: #ccc;
+}
+form#touroku_form input:focus,
+form#touroku_form textarea:focus{
+	box-shadow: 0px 0px 5px #55ccff;
+	border: 1px solid #55ccff;
+	background: #ffffff;
+}
+form#touroku_form input#name_1,
+form#touroku_form input#name_2,
+form#touroku_form input#kana_1,
+form#touroku_form input#kana_2,
+form#touroku_form input#read_1,
+form#touroku_form input#read_2,
+form#touroku_form input#date,
+form#touroku_form input#price,
+form#touroku_form input#cost{
+	width: 90px;
+}
+form#touroku_form input#touroku_address,
+form#touroku_form input#birth,
+form#touroku_form input#photo_upload,
+form#touroku_form input#title,
+form#touroku_form input#ms_upload{
+	width: 250px;
+}
+form#touroku_form select{
+	border: 1px solid #ccc;
+	background: #fafafa;
+	color : #454545;
+	margin-bottom: 0.5em;
+}
+form#touroku_form ul li{
+	float: left;
+	list-style-type: none;
+	margin-right: 1.2em;
+	margin-bottom: 0.5em;
+}
+form#touroku_form ul li label:hover{
+	cursor: pointer;
+}
+form#touroku_form ul li input{
+	height: auto;
+	margin-right: 0.5em;
+}
+form#touroku_form input#postal{
+	width: 100px;
+}
+form#touroku_form input#address_1,
+form#touroku_form input#address_2{
+	width: 300px;
+	display: block;
+}
+form#touroku_form input#phone{
+	width: 100px;
+}
+form#touroku_form textarea#self_introduction,
+form#touroku_form textarea#pub_resume,
+form#touroku_form textarea#story,
+form#touroku_form textarea#touroku_contents{
+	width: 320px;
+	height: 200px;
+	resize: vertical;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	background: #fafafa;
+}
+#touroku_submit_button{
+	padding: 6px 80px 4px;
+	vertical-align: middle;
+	color: #444;
+	background: #eee;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	font-family: "ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro W3","Hiragino Kaku Gothic Pro",Osaka,"メイリオ",Meiryo,"ＭＳ Ｐゴシック","MS PGothic",Verdana,Arial,sans-serif;
+	font-weight: bold;
+}
+#touroku_submit_button:hover{
+	cursor: pointer;
+	color: #e75b45;
+	background: #e0e0e0;
+}
+form#touroku_form input#photo_upload_button{
+	width: auto;
+	height: auto;
+	padding: 6px 10px 4px;
+	vertical-align: middle;
+	color: #444;
+	background: #eee;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	font-family: "ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro W3","Hiragino Kaku Gothic Pro",Osaka,"メイリオ",Meiryo,"ＭＳ Ｐゴシック","MS PGothic",Verdana,Arial,sans-serif;
+	font-weight: bold;
+}
+form#touroku_form input#photo_upload_button:hover{
+	cursor: pointer;
+	color: #e75b45;
+	background: #e0e0e0;
+}
+form#touroku_form input#ms_upload_button{
+	width: auto;
+	height: auto;
+	padding: 6px 10px 4px;
+	vertical-align: middle;
+	color: #444;
+	background: #eee;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	font-family: "ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro W3","Hiragino Kaku Gothic Pro",Osaka,"メイリオ",Meiryo,"ＭＳ Ｐゴシック","MS PGothic",Verdana,Arial,sans-serif;
+	font-weight: bold;
+}
+form#touroku_form input#ms_upload_button:hover{
+	cursor: pointer;
+	color: #e75b45;
+	background: #e0e0e0;
+}
+div.touroku_btn{
+	text-align: center;
+}
+div.comment{
+	text-align: center;
+	font-weight: bold;
+}
+div.touroku_name{
+	width: 570px;
+	font-size: 110%;
+	padding: 15px;
+	font-weight: bold;
+}
+
+/* --responsive------------------------------------------- */
+
+/* 640pixel start */
+@media screen and (max-width: 640px){
+
+.ttl_form{
+	width: 95%;
+}
+.txt_form{
+	display: table-cell;
+	vertical-align: middle;
+	padding-left:10px;
+}
+form#touroku_form{
+	width: 95%;
+}
+form#touroku_form dl{
+	width: auto;
+	padding: 2.5% 2.5%;
+}
+form#touroku_form dl dt{
+	width: auto;
+	float: none;
+	text-align: left;
+	padding: 10px 0 5px;
+	font-weight: bold;
+}
+form#touroku_form dl dd{
+	width: auto;
+	float: none;
+	border-top: none;
+	padding: 0px 0 10px 0px;
+	background: none;
+}
+div.comment{
+	padding:0 20px;
+	text-align: left;
+}
+
+form#touroku_form input#name_1,
+form#touroku_form input#name_2,
+form#touroku_form input#kana_1,
+form#touroku_form input#kana_2,
+form#touroku_form input#read_1,
+form#touroku_form input#read_2,
+form#touroku_form input#touroku_address,
+form#touroku_form input#touroku_address_confirm,
+form#touroku_form input#postal,
+form#touroku_form input#address_1,
+form#touroku_form input#address_2,
+form#touroku_form input#phone,
+form#touroku_form textarea#touroku_contents,{
+	max-width: 100%;
+}
+
+
+}
+
+/* 640pixel end */
+input#touroku_submit_button{
+	margin-left: 6em;
+} 
+form#touroku_form input{
+	margin-top: -3em;
+	margin-left: 2em; 
+	float:none;
+    height: 2em;
+}
+input#current_password{
+	width: 100%;
+}
+input#new_password{
+	width: 100%;
+}
+input#password_confirm{
+	width: 100%;
+}
+/* added by  DiepHQ*/
+#post-code-1{
+   width : 90px
+}
+#post-code-2{
+   width : 90px
+}
+input#touroku_address{
+	width: 100px;
+}

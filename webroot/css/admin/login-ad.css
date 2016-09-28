@@ -1,0 +1,193 @@
+@charset "utf-8";
+
+
+/* --------------------------------------------- */
+input#fullname{
+	width: 100%;
+}
+.ttl_form{
+	width : 540px;
+	margin: 15% auto 0;
+	border-top-left-radius: 4px; 
+	border-top-right-radius: 4px;
+	-webkit-border-top-left-radius: 4px;
+	-moz-border-radius-topleft: 4px;
+	-webkit-border-top-right-radius: 4px;
+	-moz-border-radius-topright: 4px;
+	behavior: url(border-radius.htc);   /* for IE */
+	background-color: #e56360;
+}
+.txt_form{
+	font-size: 110%;
+	display: table-cell;
+	vertical-align: middle;
+	font-weight: bold;
+	padding:4px 16px 1px;
+	color:#FFF;
+}
+div.login_bg-ad{
+	border-bottom-left-radius: 4px; 
+	border-bottom-right-radius: 4px;
+	-webkit-border-bottom-left-radius: 4px;
+	-moz-border-radius-bottomleft: 4px;
+	-webkit-border-bottom-right-radius: 4px;
+	-moz-border-radius-bottomright: 4px;
+	behavior: url(border-radius.htc);   /* for IE */
+	width : 500px;
+	margin : 0 auto;
+	padding:20px;
+	background-color: #f0f0f0;
+}
+form#login_form-ad dl{
+	overflow: hidden;
+
+}
+form#login_form-ad dl dt{
+	clear: both;
+	width: 130px;
+	float: left;
+	text-align: right;
+	padding: 12px 0 10px;
+}
+form#login_form-ad dl dd{
+	width: 280px;
+	float: left;
+	padding: 9px 0 10px 20px;
+}
+form#login_form-ad dl dt:first-child,
+form#login_form-ad dl dt:first-child+dd{
+	border: none;
+	background: none;
+}
+span{
+	color: #B71C1C;
+}
+form#login_form-ad input{
+	padding: 4px 6px;
+	height: 1.6em;
+
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	background: #fafafa;
+}
+select#team.form-control{
+	width: 105%;
+	height: 2em;
+}
+form#login_form-ad -webkit-input-placeholder {
+	color: #ccc;
+}
+form#login_form-ad input:-ms-input-placeholder {
+	color: #ccc;
+}
+form#login_form-ad input:-moz-placeholder {
+	color: #ccc;
+}
+form#login_form-ad input:focus,
+form#login_form-ad textarea:focus{
+	box-shadow: 0px 0px 5px #55ccff;
+	border: 1px solid #55ccff;
+	background: #ffffff;
+}
+form#login_form-ad input#login_id,
+form#login_form-ad input#phone,
+form#login_form-ad input#email,
+form#login_form-ad input#password,
+form#login_form-ad input#username,
+form#login_form-ad input#login_pw{
+	width: 100%;
+}
+ 
+form#login_form-ad select{
+	border: 1px solid #ccc;
+	background: #fafafa;
+	color : #454545;
+	margin-bottom: 0.5em;
+}
+form#login_form-ad ul li{
+	float: left;
+	list-style-type: none;
+	margin-right: 1.2em;
+	margin-bottom: 0.5em;
+}
+form#login_form-ad ul li label:hover{
+	cursor: pointer;
+}
+form#login_form-ad ul li input{
+	height: auto;
+	margin-right: 0.5em;
+}
+textarea#remarks{
+	width: 290px;
+	height: 200px;
+	resize: vertical;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	background: #fafafa;
+}
+#touroku_submit_button{
+	padding: 6px 60px 4px;
+	vertical-align: middle;
+	color: #444;
+	background: #eee;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	font-family: "ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro W3","Hiragino Kaku Gothic Pro",Osaka,"メイリオ",Meiryo,"ＭＳ Ｐゴシック","MS PGothic",Verdana,Arial,sans-serif;
+	font-weight: bold;
+}
+#touroku_submit_button:hover{
+	cursor: pointer;
+	color: #e75b45;
+	background: #e0e0e0;
+}
+div.touroku_btn{
+	margin-top:20px;
+	text-align: center;
+}
+
+/* --responsive------------------------------------------- */
+
+/* 640pixel start */
+@media screen and (max-width: 640px){
+
+.ttl_form{
+	width: 95%;
+}
+.txt_form{
+	display: table-cell;
+	vertical-align: middle;
+	padding-left:10px;
+}
+div.login_bg-ad{
+	width : 83%;
+	padding : 4% 6%;
+}
+
+form#login_form-ad dl dt{
+	width: auto;
+	float: none;
+	text-align: left;
+	padding: 10px 0 5px;
+	font-weight: bold;
+}
+form#login_form-ad dl dd{
+	width: auto;
+	float: none;
+	border-top: none;
+	padding: 0px 0 10px 0px;
+	background: none;
+}
+div.comment{
+	padding:0 20px;
+	text-align: left;
+}
+form#login_form-ad input#name,
+form#login_form-ad input#mail_address,
+form#login_form-ad input#login_id,
+form#login_form-ad input#login_pw,
+form#login_form-ad textarea#remarks,{
+	max-width: 100%;
+}
+
+}
+/* 640pixel end */

@@ -1,0 +1,16 @@
+ul.menu_left{
+	float :left;
+	margin-left: -30%;
+}
+div#cssmenu{
+	margin-left: -10%;
+}
+div.dropdown{
+	float: right;
+}
+ul.dropdown-menu{
+	margin-right: -10px;
+}
+div.sidebar-wrapper{
+	margin-top:10%; 
+}

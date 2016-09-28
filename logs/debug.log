@@ -1,0 +1,3280 @@
+2016-04-26 01:54:51 Notice: Notice (8): Undefined index: id in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 380]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 380
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 01:54:51 Notice: Notice (8): Undefined index: start_date in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 381]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 381
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 01:54:51 Notice: Notice (8): Undefined index: end_date in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 382]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 382
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 01:54:51 Notice: Notice (8): Undefined index: phone in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 383]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 383
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 01:54:51 Notice: Notice (8): Undefined index: content in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 384]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 384
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 01:54:51 Notice: Notice (8): Undefined index: judge_work in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 385]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 385
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 01:54:51 Notice: Notice (8): Undefined index: other_leader in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 386]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 386
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 03:48:50 Notice: Notice (8): Undefined index: start_date in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 380]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 380
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 03:50:31 Notice: Notice (8): Undefined index: id in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 384]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 384
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 03:50:31 Notice: Notice (8): Undefined variable: time in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 386]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 386
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 03:50:31 Notice: Notice (8): Undefined index: end_date in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 387]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 387
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 03:50:31 Notice: Notice (8): Undefined index: phone in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 389]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 389
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 03:50:31 Notice: Notice (8): Undefined index: content in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 390]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 390
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 03:50:31 Notice: Notice (8): Undefined index: judge_work in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 391]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 391
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 03:50:31 Notice: Notice (8): Undefined index: other_leader in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 392]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 392
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 04:09:10 Notice: Notice (8): Undefined property: Cake\ORM\Query::$end_date in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 396]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 396
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 04:09:52 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 396]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 396
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 04:09:57 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 396]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 396
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 04:09:58 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 396]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 396
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 04:09:58 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 396]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 396
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 04:09:58 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 396]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 396
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 04:09:58 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 396]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 396
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 04:09:58 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 396]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 396
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 04:10:04 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 396]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 396
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 04:25:01 Notice: Notice (8): Undefined variable: total in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 394]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 394
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 04:25:01 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 394]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 394
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 04:25:37 Notice: Notice (8): Undefined variable: total in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 394]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 394
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 04:25:37 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 394]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 394
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 04:25:39 Notice: Notice (8): Undefined variable: total in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 394]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 394
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 04:25:39 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 394]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 394
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 04:25:45 Notice: Notice (8): Undefined variable: total in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 394]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 394
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 04:25:45 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 394]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 394
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 04:25:48 Notice: Notice (8): Undefined variable: total in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 394]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 394
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 04:25:48 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 394]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 394
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 04:26:15 Notice: Notice (8): Undefined variable: total in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 394]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 394
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 04:26:15 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 394]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 394
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 04:26:49 Notice: Notice (8): Undefined variable: total in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 394]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 394
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 04:26:49 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 394]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 394
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 04:27:20 Notice: Notice (8): Undefined variable: total in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 394]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 394
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 04:27:20 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 394]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 394
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 06:27:15 Notice: Notice (8): Undefined variable: userLogin in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 372]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::listLeader() - APP/Controller/VacationController.php, line 372
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 06:27:15 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 372]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::listLeader() - APP/Controller/VacationController.php, line 372
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 06:53:32 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 383]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::listLeader() - APP/Controller/VacationController.php, line 383
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 07:41:21 Notice: Notice (8): Undefined index: id in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 418]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::listTimeOff() - APP/Controller/VacationController.php, line 418
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 07:41:51 Notice: Notice (8): Undefined index: id in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 417]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::listTimeOff() - APP/Controller/VacationController.php, line 417
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 08:42:45 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 424]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::listTimeOff() - APP/Controller/VacationController.php, line 424
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 08:43:05 Notice: Notice (8): Undefined index: start_date in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 424]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::listTimeOff() - APP/Controller/VacationController.php, line 424
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 08:43:27 Notice: Notice (8): Undefined property: Cake\ORM\Query::$start_date in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 423]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::listTimeOff() - APP/Controller/VacationController.php, line 423
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 08:47:49 Notice: Notice (8): Undefined index: id in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 417]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::listTimeOff() - APP/Controller/VacationController.php, line 417
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 08:47:49 Notice: Notice (8): Undefined offset: 0 in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 424]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::listTimeOff() - APP/Controller/VacationController.php, line 424
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 08:47:49 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 424]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::listTimeOff() - APP/Controller/VacationController.php, line 424
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 08:47:50 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 216]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::yourVacation() - APP/Controller/VacationController.php, line 216
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 08:47:53 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 216]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::yourVacation() - APP/Controller/VacationController.php, line 216
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 08:47:54 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 216]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::yourVacation() - APP/Controller/VacationController.php, line 216
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-26 08:47:56 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 216]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::yourVacation() - APP/Controller/VacationController.php, line 216
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 04:04:48 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 405]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 405
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 04:04:48 Notice: Notice (8): Undefined index: leader_id in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 413]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 413
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 04:05:54 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 405]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 405
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 04:06:20 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 405]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 405
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 04:08:11 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 405]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 405
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 04:08:59 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 405]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 405
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 04:09:23 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 405]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 405
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 04:09:56 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 426]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 426
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 04:09:56 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 428]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 428
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 04:32:11 Notice: Notice (8): Undefined variable: leader in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 419]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 419
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 04:32:11 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 419]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 419
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 04:32:26 Notice: Notice (8): Undefined variable: full_name in [/Applications/MAMP/htdocs/managerment/src/Template/Email/html/vacation.ctp, line 1]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Email/html/vacation.ctp, line 1
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Mailer\Email::_renderTemplates() - CORE/src/Mailer/Email.php, line 1845
+Cake\Mailer\Email::_render() - CORE/src/Mailer/Email.php, line 1714
+Cake\Mailer\Email::send() - CORE/src/Mailer/Email.php, line 1295
+App\Controller\AppController::sendMail() - APP/Controller/AppController.php, line 118
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 433
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 04:32:26 Notice: Notice (8): Undefined variable: startdate in [/Applications/MAMP/htdocs/managerment/src/Template/Email/html/vacation.ctp, line 2]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Email/html/vacation.ctp, line 2
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Mailer\Email::_renderTemplates() - CORE/src/Mailer/Email.php, line 1845
+Cake\Mailer\Email::_render() - CORE/src/Mailer/Email.php, line 1714
+Cake\Mailer\Email::send() - CORE/src/Mailer/Email.php, line 1295
+App\Controller\AppController::sendMail() - APP/Controller/AppController.php, line 118
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 433
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 04:32:26 Notice: Notice (8): Undefined variable: enddate in [/Applications/MAMP/htdocs/managerment/src/Template/Email/html/vacation.ctp, line 2]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Email/html/vacation.ctp, line 2
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Mailer\Email::_renderTemplates() - CORE/src/Mailer/Email.php, line 1845
+Cake\Mailer\Email::_render() - CORE/src/Mailer/Email.php, line 1714
+Cake\Mailer\Email::send() - CORE/src/Mailer/Email.php, line 1295
+App\Controller\AppController::sendMail() - APP/Controller/AppController.php, line 118
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 433
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 04:32:26 Notice: Notice (8): Undefined variable: judgework in [/Applications/MAMP/htdocs/managerment/src/Template/Email/html/vacation.ctp, line 4]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Email/html/vacation.ctp, line 4
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Mailer\Email::_renderTemplates() - CORE/src/Mailer/Email.php, line 1845
+Cake\Mailer\Email::_render() - CORE/src/Mailer/Email.php, line 1714
+Cake\Mailer\Email::send() - CORE/src/Mailer/Email.php, line 1295
+App\Controller\AppController::sendMail() - APP/Controller/AppController.php, line 118
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 433
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 04:32:54 Notice: Notice (8): Undefined variable: full_name in [/Applications/MAMP/htdocs/managerment/src/Template/Email/html/vacation.ctp, line 1]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Email/html/vacation.ctp, line 1
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Mailer\Email::_renderTemplates() - CORE/src/Mailer/Email.php, line 1845
+Cake\Mailer\Email::_render() - CORE/src/Mailer/Email.php, line 1714
+Cake\Mailer\Email::send() - CORE/src/Mailer/Email.php, line 1295
+App\Controller\AppController::sendMail() - APP/Controller/AppController.php, line 118
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 433
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 04:32:54 Notice: Notice (8): Undefined variable: startdate in [/Applications/MAMP/htdocs/managerment/src/Template/Email/html/vacation.ctp, line 2]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Email/html/vacation.ctp, line 2
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Mailer\Email::_renderTemplates() - CORE/src/Mailer/Email.php, line 1845
+Cake\Mailer\Email::_render() - CORE/src/Mailer/Email.php, line 1714
+Cake\Mailer\Email::send() - CORE/src/Mailer/Email.php, line 1295
+App\Controller\AppController::sendMail() - APP/Controller/AppController.php, line 118
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 433
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 04:32:54 Notice: Notice (8): Undefined variable: enddate in [/Applications/MAMP/htdocs/managerment/src/Template/Email/html/vacation.ctp, line 2]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Email/html/vacation.ctp, line 2
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Mailer\Email::_renderTemplates() - CORE/src/Mailer/Email.php, line 1845
+Cake\Mailer\Email::_render() - CORE/src/Mailer/Email.php, line 1714
+Cake\Mailer\Email::send() - CORE/src/Mailer/Email.php, line 1295
+App\Controller\AppController::sendMail() - APP/Controller/AppController.php, line 118
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 433
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 04:32:54 Notice: Notice (8): Undefined variable: judgework in [/Applications/MAMP/htdocs/managerment/src/Template/Email/html/vacation.ctp, line 4]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Email/html/vacation.ctp, line 4
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Mailer\Email::_renderTemplates() - CORE/src/Mailer/Email.php, line 1845
+Cake\Mailer\Email::_render() - CORE/src/Mailer/Email.php, line 1714
+Cake\Mailer\Email::send() - CORE/src/Mailer/Email.php, line 1295
+App\Controller\AppController::sendMail() - APP/Controller/AppController.php, line 118
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 433
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 04:34:32 Notice: Notice (8): Undefined variable: full_name in [/Applications/MAMP/htdocs/managerment/src/Template/Email/html/vacation.ctp, line 1]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Email/html/vacation.ctp, line 1
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Mailer\Email::_renderTemplates() - CORE/src/Mailer/Email.php, line 1845
+Cake\Mailer\Email::_render() - CORE/src/Mailer/Email.php, line 1714
+Cake\Mailer\Email::send() - CORE/src/Mailer/Email.php, line 1295
+App\Controller\AppController::sendMail() - APP/Controller/AppController.php, line 118
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 432
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 04:34:32 Notice: Notice (8): Undefined variable: startdate in [/Applications/MAMP/htdocs/managerment/src/Template/Email/html/vacation.ctp, line 2]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Email/html/vacation.ctp, line 2
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Mailer\Email::_renderTemplates() - CORE/src/Mailer/Email.php, line 1845
+Cake\Mailer\Email::_render() - CORE/src/Mailer/Email.php, line 1714
+Cake\Mailer\Email::send() - CORE/src/Mailer/Email.php, line 1295
+App\Controller\AppController::sendMail() - APP/Controller/AppController.php, line 118
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 432
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 04:34:32 Notice: Notice (8): Undefined variable: enddate in [/Applications/MAMP/htdocs/managerment/src/Template/Email/html/vacation.ctp, line 2]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Email/html/vacation.ctp, line 2
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Mailer\Email::_renderTemplates() - CORE/src/Mailer/Email.php, line 1845
+Cake\Mailer\Email::_render() - CORE/src/Mailer/Email.php, line 1714
+Cake\Mailer\Email::send() - CORE/src/Mailer/Email.php, line 1295
+App\Controller\AppController::sendMail() - APP/Controller/AppController.php, line 118
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 432
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 04:34:32 Notice: Notice (8): Undefined variable: judgework in [/Applications/MAMP/htdocs/managerment/src/Template/Email/html/vacation.ctp, line 4]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Email/html/vacation.ctp, line 4
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Mailer\Email::_renderTemplates() - CORE/src/Mailer/Email.php, line 1845
+Cake\Mailer\Email::_render() - CORE/src/Mailer/Email.php, line 1714
+Cake\Mailer\Email::send() - CORE/src/Mailer/Email.php, line 1295
+App\Controller\AppController::sendMail() - APP/Controller/AppController.php, line 118
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 432
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 04:41:52 Notice: Notice (8): Undefined variable: vacations in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 431]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 431
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 04:41:52 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/VacationController.php, line 431]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 431
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 04:43:10 Notice: Notice (8): Undefined variable: judgework in [/Applications/MAMP/htdocs/managerment/src/Template/Email/html/vacation.ctp, line 5]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Email/html/vacation.ctp, line 5
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Mailer\Email::_renderTemplates() - CORE/src/Mailer/Email.php, line 1845
+Cake\Mailer\Email::_render() - CORE/src/Mailer/Email.php, line 1714
+Cake\Mailer\Email::send() - CORE/src/Mailer/Email.php, line 1295
+App\Controller\AppController::sendMail() - APP/Controller/AppController.php, line 118
+App\Controller\VacationController::mAdd() - APP/Controller/VacationController.php, line 433
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 07:10:03 Notice: Notice (8): Undefined index: id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 45]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::listLeader() - APP/Controller/APIController.php, line 45
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 07:22:08 Notice: Notice (8): Undefined index: id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 101]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 101
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 07:22:08 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 108]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 108
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 07:22:08 Notice: Notice (8): Undefined index: start_date in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 109]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 109
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 07:22:08 Notice: Notice (8): Undefined index: end_date in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 111]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 111
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 07:22:08 Notice: Notice (8): Undefined index: phone in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 113]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 113
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 07:22:08 Notice: Notice (8): Undefined index: content in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 114]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 114
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 07:22:08 Notice: Notice (8): Undefined index: judge_work in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 115]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 115
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 07:22:08 Notice: Notice (8): Undefined index: leader_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 116]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 116
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 08:34:12 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 67]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::listLeader() - APP/Controller/APIController.php, line 67
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 09:10:40 Notice: Notice (8): Undefined variable: admin in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 119]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 119
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-27 09:12:23 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 133]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 133
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 02:10:55 Notice: Notice (8): Undefined variable: ids in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 163]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 163
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 02:10:55 Notice: Notice (8): Undefined variable: payload in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 163]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 163
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 02:10:55 Notice: Notice (8): Undefined variable: parameters in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 163]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 163
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 04:09:01 Notice: Notice (8): Undefined variable: id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 165]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 165
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 04:09:36 Notice: Notice (8): Undefined variable: id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 165]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 165
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:35:21 Notice: Notice (8): Undefined index: token_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 45]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::login() - APP/Controller/APIController.php, line 45
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:35:27 Notice: Notice (8): Undefined index: token_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 45]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::login() - APP/Controller/APIController.php, line 45
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:35:29 Notice: Notice (8): Undefined index: token_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 45]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::login() - APP/Controller/APIController.php, line 45
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:35:29 Notice: Notice (8): Undefined index: token_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 45]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::login() - APP/Controller/APIController.php, line 45
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:35:29 Notice: Notice (8): Undefined index: token_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 45]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::login() - APP/Controller/APIController.php, line 45
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:35:30 Notice: Notice (8): Undefined index: token_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 45]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::login() - APP/Controller/APIController.php, line 45
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:35:30 Notice: Notice (8): Undefined index: token_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 45]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::login() - APP/Controller/APIController.php, line 45
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:35:30 Notice: Notice (8): Undefined index: token_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 45]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::login() - APP/Controller/APIController.php, line 45
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:35:30 Notice: Notice (8): Undefined index: token_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 45]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::login() - APP/Controller/APIController.php, line 45
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:35:31 Notice: Notice (8): Undefined index: token_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 45]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::login() - APP/Controller/APIController.php, line 45
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:36:19 Notice: Notice (8): Undefined index: token_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 45]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::login() - APP/Controller/APIController.php, line 45
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:36:58 Notice: Notice (8): Undefined index: token_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 45]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::login() - APP/Controller/APIController.php, line 45
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:36:58 Notice: Notice (8): Undefined index: token_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 45]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::login() - APP/Controller/APIController.php, line 45
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:36:58 Notice: Notice (8): Undefined index: token_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 45]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::login() - APP/Controller/APIController.php, line 45
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:36:58 Notice: Notice (8): Undefined index: token_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 45]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::login() - APP/Controller/APIController.php, line 45
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:36:58 Notice: Notice (8): Undefined index: token_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 45]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::login() - APP/Controller/APIController.php, line 45
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:36:58 Notice: Notice (8): Undefined index: token_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 45]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::login() - APP/Controller/APIController.php, line 45
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:36:59 Notice: Notice (8): Undefined index: token_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 45]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::login() - APP/Controller/APIController.php, line 45
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:36:59 Notice: Notice (8): Undefined index: token_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 45]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::login() - APP/Controller/APIController.php, line 45
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:36:59 Notice: Notice (8): Undefined index: token_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 45]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::login() - APP/Controller/APIController.php, line 45
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:37:01 Notice: Notice (8): Undefined index: token_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 45]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::login() - APP/Controller/APIController.php, line 45
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:37:01 Notice: Notice (8): Undefined index: token_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 45]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::login() - APP/Controller/APIController.php, line 45
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:37:01 Notice: Notice (8): Undefined index: token_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 45]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::login() - APP/Controller/APIController.php, line 45
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:37:01 Notice: Notice (8): Undefined index: token_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 45]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::login() - APP/Controller/APIController.php, line 45
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:37:01 Notice: Notice (8): Undefined index: token_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 45]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::login() - APP/Controller/APIController.php, line 45
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:37:01 Notice: Notice (8): Undefined index: token_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 45]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::login() - APP/Controller/APIController.php, line 45
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:37:02 Notice: Notice (8): Undefined index: token_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 45]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::login() - APP/Controller/APIController.php, line 45
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:58:26 Notice: Notice (8): Undefined variable: token in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 171]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 171
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:58:26 Notice: Notice (8): Undefined variable: title in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 173]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 173
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:58:26 Notice: Notice (8): Undefined variable: body in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 175]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 175
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:58:30 Notice: Notice (8): Undefined variable: token in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 171]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 171
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:58:30 Notice: Notice (8): Undefined variable: title in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 173]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 173
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:58:30 Notice: Notice (8): Undefined variable: body in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 175]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 175
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:59:18 Notice: Notice (8): Undefined variable: token in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 171]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 171
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:59:18 Notice: Notice (8): Undefined variable: title in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 173]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 173
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:59:18 Notice: Notice (8): Undefined variable: body in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 175]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 175
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:59:57 Notice: Notice (8): Undefined variable: token in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 171]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 171
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:59:57 Notice: Notice (8): Undefined variable: title in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 173]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 173
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 06:59:57 Notice: Notice (8): Undefined variable: body in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 175]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 175
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 07:00:06 Notice: Notice (8): Undefined variable: token in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 171]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 171
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 07:00:06 Notice: Notice (8): Undefined variable: title in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 173]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 173
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 07:00:06 Notice: Notice (8): Undefined variable: body in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 175]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 175
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 07:00:20 Notice: Notice (8): Undefined variable: token in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 171]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 171
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 07:00:20 Notice: Notice (8): Undefined variable: title in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 173]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 173
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 07:00:20 Notice: Notice (8): Undefined variable: body in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 175]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 175
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 07:00:30 Notice: Notice (8): Undefined variable: token in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 171]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 171
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 07:00:30 Notice: Notice (8): Undefined variable: title in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 173]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 173
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 07:00:30 Notice: Notice (8): Undefined variable: body in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 175]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 175
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 07:00:52 Notice: Notice (8): Undefined variable: token in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 171]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 171
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 07:00:52 Notice: Notice (8): Undefined variable: title in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 173]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 173
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 07:00:52 Notice: Notice (8): Undefined variable: body in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 175]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 175
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 07:01:02 Notice: Notice (8): Undefined variable: token in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 171]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 171
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 07:01:02 Notice: Notice (8): Undefined variable: title in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 173]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 173
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 07:01:02 Notice: Notice (8): Undefined variable: body in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 174]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 174
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 07:01:02 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/managerment/vendor/ker0x/cake_gcm/src/Controller/Component/GcmComponent.php, line 274]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+ker0x\CakeGcm\Controller\Component\GcmComponent::_checkData() - ROOT/vendor/ker0x/cake_gcm/src/Controller/Component/GcmComponent.php, line 274
+ker0x\CakeGcm\Controller\Component\GcmComponent::send() - ROOT/vendor/ker0x/cake_gcm/src/Controller/Component/GcmComponent.php, line 111
+ker0x\CakeGcm\Controller\Component\GcmComponent::sendData() - ROOT/vendor/ker0x/cake_gcm/src/Controller/Component/GcmComponent.php, line 144
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 175
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 07:01:02 Notice: Notice (8): Array to string conversion in [/Applications/MAMP/htdocs/managerment/vendor/ker0x/cake_gcm/src/Controller/Component/GcmComponent.php, line 274]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+ker0x\CakeGcm\Controller\Component\GcmComponent::_checkData() - ROOT/vendor/ker0x/cake_gcm/src/Controller/Component/GcmComponent.php, line 274
+ker0x\CakeGcm\Controller\Component\GcmComponent::send() - ROOT/vendor/ker0x/cake_gcm/src/Controller/Component/GcmComponent.php, line 111
+ker0x\CakeGcm\Controller\Component\GcmComponent::sendData() - ROOT/vendor/ker0x/cake_gcm/src/Controller/Component/GcmComponent.php, line 144
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 175
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 07:01:50 Notice: Notice (8): Undefined variable: title in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 173]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 173
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-28 07:01:50 Notice: Notice (8): Undefined variable: body in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 175]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::pushNotification() - APP/Controller/APIController.php, line 175
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-29 09:08:14 Notice: Notice (8): Undefined variable: vacation in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 64]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::changePassword() - APP/Controller/APIController.php, line 64
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-29 09:08:14 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 64]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::changePassword() - APP/Controller/APIController.php, line 64
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-29 09:12:20 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 68]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::changePassword() - APP/Controller/APIController.php, line 68
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-04-29 09:12:48 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 68]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::changePassword() - APP/Controller/APIController.php, line 68
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-05 03:18:57 Notice: Notice (8): Undefined variable: leader in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 144]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 144
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-05 03:18:57 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 144]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 144
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-05 03:18:57 Notice: Notice (8): Undefined variable: user_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 151]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 151
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-05 03:18:57 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 153]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 153
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-05 03:20:07 Notice: Notice (8): Undefined variable: leader in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 144]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 144
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-05 03:20:07 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 144]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 144
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-05 03:20:07 Notice: Notice (8): Undefined variable: user_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 151]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 151
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-05 03:20:07 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 153]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 153
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-05 03:20:37 Notice: Notice (8): Undefined variable: leader in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 144]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 144
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-05 03:20:37 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 144]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 144
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-05 03:20:37 Notice: Notice (8): Undefined variable: user_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 151]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 151
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-05 03:20:37 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 153]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 153
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-05 03:22:13 Notice: Notice (8): Undefined variable: user_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 151]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 151
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-05 03:22:13 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 153]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 153
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-05 04:05:07 Notice: Notice (8): Undefined variable: name_reciever in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 163]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 163
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-05 04:05:11 Notice: Notice (8): Undefined variable: name_reciever in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 163]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 163
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-05 04:05:22 Notice: Notice (8): Undefined variable: name_reciever in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 163]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 163
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-05 04:05:25 Notice: Notice (8): Undefined variable: name_reciever in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 163]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 163
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-05 04:05:30 Notice: Notice (8): Undefined variable: name_reciever in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 163]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 163
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-05 04:05:34 Notice: Notice (8): Undefined variable: name_reciever in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 163]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 163
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 07:57:32 Notice: Notice (8): Undefined index: id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 206]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::listTimeOff() - APP/Controller/APIController.php, line 206
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 07:57:47 Notice: Notice (8): Undefined index: id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 224]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::listOfMember() - APP/Controller/APIController.php, line 224
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 07:58:09 Notice: Notice (8): Undefined index: id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 206]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::listTimeOff() - APP/Controller/APIController.php, line 206
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 07:58:20 Notice: Notice (8): Undefined index: id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 206]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::listTimeOff() - APP/Controller/APIController.php, line 206
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 08:19:13 Notice: Notice (8): Undefined index: full_name in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 107]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 107
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 08:19:25 Notice: Notice (8): Undefined index: user_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 106]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 106
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 08:19:25 Notice: Notice (8): Undefined index: full_name in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 107]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 107
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 08:19:25 Notice: Notice (8): Undefined index: status in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 125]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 125
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 08:21:31 Notice: Notice (8): Undefined index: full_name in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 107]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 107
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 08:21:31 Notice: Notice (8): Undefined index: status in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 125]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 125
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 08:22:20 Notice: Notice (8): Undefined index: status in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 125]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 125
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 08:22:57 Notice: Notice (8): Undefined variable: user in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 153]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 153
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 08:22:57 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 153]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 153
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 08:24:45 Notice: Notice (8): Undefined index: full_name in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 107]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 107
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 08:29:18 Notice: Notice (8): Undefined index: id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 206]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::listTimeOff() - APP/Controller/APIController.php, line 206
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 08:29:51 Notice: Notice (8): Undefined index: user_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 206]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::listTimeOff() - APP/Controller/APIController.php, line 206
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 08:29:54 Notice: Notice (8): Undefined index: user_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 206]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::listTimeOff() - APP/Controller/APIController.php, line 206
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 08:29:56 Notice: Notice (8): Undefined index: user_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 206]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::listTimeOff() - APP/Controller/APIController.php, line 206
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 08:30:08 Notice: Notice (8): Undefined index: user_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 206]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::listTimeOff() - APP/Controller/APIController.php, line 206
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 08:30:11 Notice: Notice (8): Undefined index: user_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 206]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::listTimeOff() - APP/Controller/APIController.php, line 206
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 08:30:22 Notice: Notice (8): Undefined index: user_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 206]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::listTimeOff() - APP/Controller/APIController.php, line 206
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 08:52:26 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 116]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 116
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 08:52:26 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 150]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 150
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 08:52:26 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 157]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 157
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 08:52:31 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 116]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 116
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 08:52:31 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 150]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 150
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 08:52:31 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 157]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 157
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 08:52:35 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 116]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 116
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 08:52:35 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 150]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 150
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 08:52:35 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 157]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 157
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 08:54:06 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 116]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 116
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 08:54:06 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 150]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 150
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 08:54:06 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 157]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 157
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 09:01:29 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 116]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 116
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 09:01:30 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 150]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 150
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 09:01:30 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 157]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 157
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 09:02:55 Notice: Notice (8): Trying to get property of non-object in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 116]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 116
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 09:35:17 Notice: Notice (8): Undefined index: user_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 206]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::listTimeOff() - APP/Controller/APIController.php, line 206
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 09:35:26 Notice: Notice (8): Undefined index: user_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 206]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::listTimeOff() - APP/Controller/APIController.php, line 206
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 10:19:08 Notice: Notice (8): Undefined variable: id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 259]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::updateVacationStatus() - APP/Controller/APIController.php, line 259
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 10:19:24 Notice: Notice (8): Undefined variable: id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 259]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::updateVacationStatus() - APP/Controller/APIController.php, line 259
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 10:19:55 Notice: Notice (8): Undefined index: leader_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 225]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::listOfMember() - APP/Controller/APIController.php, line 225
+App\Controller\APIController::updateVacationStatus() - APP/Controller/APIController.php, line 263
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 10:23:43 Notice: Notice (8): Undefined index: leader_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 224]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::listOfMember() - APP/Controller/APIController.php, line 224
+App\Controller\APIController::updateVacationStatus() - APP/Controller/APIController.php, line 260
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 10:24:01 Notice: Notice (8): Undefined index: leader_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 224]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::listOfMember() - APP/Controller/APIController.php, line 224
+App\Controller\APIController::updateVacationStatus() - APP/Controller/APIController.php, line 260
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 10:24:14 Notice: Notice (8): Undefined index: leader_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 224]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::listOfMember() - APP/Controller/APIController.php, line 224
+App\Controller\APIController::updateVacationStatus() - APP/Controller/APIController.php, line 260
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 10:29:08 Notice: Notice (8): Undefined index: leader_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 224]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::listOfMember() - APP/Controller/APIController.php, line 224
+App\Controller\APIController::updateVacationStatus() - APP/Controller/APIController.php, line 262
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 10:30:52 Notice: Notice (8): Undefined index: leader_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 262]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::updateVacationStatus() - APP/Controller/APIController.php, line 262
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-09 10:31:23 Notice: Notice (8): Undefined index: leader_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 262]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::updateVacationStatus() - APP/Controller/APIController.php, line 262
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:19:24 Notice: Notice (8): Undefined variable: servicesType in [/Applications/MAMP/htdocs/managerment/src/Template/Element/header.ctp, line 88]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Element/header.ctp, line 88
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1308
+Cake\View\View::element() - CORE/src/View/View.php, line 485
+include - APP/Template/Pages/home.ctp, line 112
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:19:24 Notice: Notice (8): Undefined variable: bannerAll in [/Applications/MAMP/htdocs/managerment/src/Template/Pages/home.ctp, line 122]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Pages/home.ctp, line 122
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:19:24 Notice: Notice (8): Undefined variable: newAll in [/Applications/MAMP/htdocs/managerment/src/Template/Pages/home.ctp, line 222]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Pages/home.ctp, line 222
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:19:24 Notice: Notice (8): Undefined variable: JobAll in [/Applications/MAMP/htdocs/managerment/src/Template/Pages/home.ctp, line 308]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Pages/home.ctp, line 308
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:19:24 Notice: Notice (8): Undefined variable: videoAll in [/Applications/MAMP/htdocs/managerment/src/Template/Pages/home.ctp, line 356]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Pages/home.ctp, line 356
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:19:45 Notice: Notice (8): Undefined variable: servicesType in [/Applications/MAMP/htdocs/managerment/src/Template/Element/header.ctp, line 88]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Element/header.ctp, line 88
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1308
+Cake\View\View::element() - CORE/src/View/View.php, line 485
+include - APP/Template/Pages/home.ctp, line 112
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:19:45 Notice: Notice (8): Undefined variable: bannerAll in [/Applications/MAMP/htdocs/managerment/src/Template/Pages/home.ctp, line 122]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Pages/home.ctp, line 122
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:19:45 Notice: Notice (8): Undefined variable: newAll in [/Applications/MAMP/htdocs/managerment/src/Template/Pages/home.ctp, line 222]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Pages/home.ctp, line 222
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:19:45 Notice: Notice (8): Undefined variable: JobAll in [/Applications/MAMP/htdocs/managerment/src/Template/Pages/home.ctp, line 308]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Pages/home.ctp, line 308
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:19:45 Notice: Notice (8): Undefined variable: videoAll in [/Applications/MAMP/htdocs/managerment/src/Template/Pages/home.ctp, line 356]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Pages/home.ctp, line 356
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:20:52 Notice: Notice (8): Undefined variable: servicesType in [/Applications/MAMP/htdocs/managerment/src/Template/Element/header.ctp, line 88]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Element/header.ctp, line 88
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1308
+Cake\View\View::element() - CORE/src/View/View.php, line 485
+include - APP/Template/Pages/home.ctp, line 112
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:20:52 Notice: Notice (8): Undefined variable: bannerAll in [/Applications/MAMP/htdocs/managerment/src/Template/Pages/home.ctp, line 122]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Pages/home.ctp, line 122
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:20:52 Notice: Notice (8): Undefined variable: newAll in [/Applications/MAMP/htdocs/managerment/src/Template/Pages/home.ctp, line 222]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Pages/home.ctp, line 222
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:20:52 Notice: Notice (8): Undefined variable: JobAll in [/Applications/MAMP/htdocs/managerment/src/Template/Pages/home.ctp, line 308]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Pages/home.ctp, line 308
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:20:52 Notice: Notice (8): Undefined variable: videoAll in [/Applications/MAMP/htdocs/managerment/src/Template/Pages/home.ctp, line 356]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Pages/home.ctp, line 356
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:21:42 Notice: Notice (8): Undefined variable: servicesType in [/Applications/MAMP/htdocs/managerment/src/Template/Element/header.ctp, line 88]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Element/header.ctp, line 88
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1308
+Cake\View\View::element() - CORE/src/View/View.php, line 485
+include - APP/Template/Pages/home.ctp, line 112
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:21:42 Notice: Notice (8): Undefined variable: bannerAll in [/Applications/MAMP/htdocs/managerment/src/Template/Pages/home.ctp, line 122]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Pages/home.ctp, line 122
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:21:42 Notice: Notice (8): Undefined variable: newAll in [/Applications/MAMP/htdocs/managerment/src/Template/Pages/home.ctp, line 222]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Pages/home.ctp, line 222
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:21:42 Notice: Notice (8): Undefined variable: JobAll in [/Applications/MAMP/htdocs/managerment/src/Template/Pages/home.ctp, line 308]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Pages/home.ctp, line 308
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:21:42 Notice: Notice (8): Undefined variable: videoAll in [/Applications/MAMP/htdocs/managerment/src/Template/Pages/home.ctp, line 356]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Pages/home.ctp, line 356
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:22:08 Notice: Notice (8): Undefined variable: servicesType in [/Applications/MAMP/htdocs/managerment/src/Template/Element/header.ctp, line 88]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Element/header.ctp, line 88
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1308
+Cake\View\View::element() - CORE/src/View/View.php, line 485
+include - APP/Template/Pages/home.ctp, line 112
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:22:08 Notice: Notice (8): Undefined variable: bannerAll in [/Applications/MAMP/htdocs/managerment/src/Template/Pages/home.ctp, line 122]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Pages/home.ctp, line 122
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:22:08 Notice: Notice (8): Undefined variable: newAll in [/Applications/MAMP/htdocs/managerment/src/Template/Pages/home.ctp, line 222]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Pages/home.ctp, line 222
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:22:08 Notice: Notice (8): Undefined variable: JobAll in [/Applications/MAMP/htdocs/managerment/src/Template/Pages/home.ctp, line 308]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Pages/home.ctp, line 308
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:22:08 Notice: Notice (8): Undefined variable: videoAll in [/Applications/MAMP/htdocs/managerment/src/Template/Pages/home.ctp, line 356]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Pages/home.ctp, line 356
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:27:23 Notice: Notice (8): Undefined variable: servicesType in [/Applications/MAMP/htdocs/managerment/src/Template/Element/header.ctp, line 88]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Element/header.ctp, line 88
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1308
+Cake\View\View::element() - CORE/src/View/View.php, line 485
+include - APP/Template/Pages/home.ctp, line 112
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:27:23 Notice: Notice (8): Undefined variable: bannerAll in [/Applications/MAMP/htdocs/managerment/src/Template/Pages/home.ctp, line 122]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Pages/home.ctp, line 122
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:27:24 Notice: Notice (8): Undefined variable: newAll in [/Applications/MAMP/htdocs/managerment/src/Template/Pages/home.ctp, line 222]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Pages/home.ctp, line 222
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:27:24 Notice: Notice (8): Undefined variable: JobAll in [/Applications/MAMP/htdocs/managerment/src/Template/Pages/home.ctp, line 308]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Pages/home.ctp, line 308
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:27:24 Notice: Notice (8): Undefined variable: videoAll in [/Applications/MAMP/htdocs/managerment/src/Template/Pages/home.ctp, line 356]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Pages/home.ctp, line 356
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:31:01 Notice: Notice (8): Undefined variable: servicesType in [/Applications/MAMP/htdocs/managerment/src/Template/Element/header.ctp, line 88]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Element/header.ctp, line 88
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1308
+Cake\View\View::element() - CORE/src/View/View.php, line 485
+include - APP/Template/Pages/home.ctp, line 112
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:31:01 Notice: Notice (8): Undefined variable: bannerAll in [/Applications/MAMP/htdocs/managerment/src/Template/Pages/home.ctp, line 122]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Pages/home.ctp, line 122
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:31:01 Notice: Notice (8): Undefined variable: newAll in [/Applications/MAMP/htdocs/managerment/src/Template/Pages/home.ctp, line 222]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Pages/home.ctp, line 222
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:31:01 Notice: Notice (8): Undefined variable: JobAll in [/Applications/MAMP/htdocs/managerment/src/Template/Pages/home.ctp, line 308]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Pages/home.ctp, line 308
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 07:31:01 Notice: Notice (8): Undefined variable: videoAll in [/Applications/MAMP/htdocs/managerment/src/Template/Pages/home.ctp, line 356]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+include - APP/Template/Pages/home.ctp, line 356
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 971
+Cake\View\View::_render() - CORE/src/View/View.php, line 931
+Cake\View\View::render() - CORE/src/View/View.php, line 579
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 08:02:18 Notice: Notice (8): Undefined index: id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 82]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::listLeader() - APP/Controller/APIController.php, line 82
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 08:03:06 Notice: Notice (8): Undefined index: id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 82]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::listLeader() - APP/Controller/APIController.php, line 82
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 08:13:03 Notice: Notice (8): Undefined index: user_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 105]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 105
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 08:37:22 Notice: Notice (8): Undefined index: vacation_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 112]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 112
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 08:37:22 Notice: Notice (8): Undefined index: start_date in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 118]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 118
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 08:37:22 Notice: Notice (8): Undefined index: end_date in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 121]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 121
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 08:37:23 Notice: Notice (8): Undefined index: phone in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 123]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 123
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 08:37:23 Notice: Notice (8): Undefined index: content in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 124]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 124
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 08:37:23 Notice: Notice (8): Undefined index: judge_work in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 125]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 125
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 08:37:23 Notice: Notice (8): Undefined index: leader_id in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 126]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 126
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 08:37:24 Notice: Notice (8): Undefined index: status in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 133]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 133
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-05-11 08:39:16 Notice: Notice (8): Undefined index: status in [/Applications/MAMP/htdocs/managerment/src/Controller/APIController.php, line 133]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 140
+App\Controller\APIController::addTimeOff() - APP/Controller/APIController.php, line 133
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+

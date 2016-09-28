@@ -1,0 +1,18 @@
+<?php
+namespace App\Model\Table;
+use Cake\ORM\Table;
+use Cake\ORM\TableRegistry;
+use Cake\Validation\Validator;
+
+/**
+	 * 
+	 */
+	 class BannersTable extends Table{
+	 	public function intitialize(array $config){
+ 			$this->Table('t_banners');
+	 	}
+	  
+	 }
+	 
+	 	 
+?>

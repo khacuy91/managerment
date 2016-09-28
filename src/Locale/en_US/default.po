@@ -1,0 +1,4 @@
+msgid "services"
+msgstr "hello"
+msgid "admin"
+msgstr "vietnamese"
